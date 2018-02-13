@@ -12,12 +12,10 @@
 | March 15th     |               |               |               |
 | March 22th     |               |               |               |
 | March 29th     |               |               |               |
-
 | April  5th     |               |               |               |
 | April 12th     |               |               |               |
 | April 19th     |               |               |               |
 | April 26th     |               |               |               |
-
 | May    3rd     |               |               |               |
 | May   10th     |               |               |               |
 | May   17th     |               |               |               |
