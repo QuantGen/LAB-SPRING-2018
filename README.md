@@ -15,7 +15,7 @@
 | March 29th     |               |               |               |
 | April  5th     |               |               |               |
 | April 12th     |               |               |               |
-| April 19th     |               |               |               |
+| April 19th     |   Marco            |               |               |
 | April 26th     |               |               |               |
 | May    3rd     |  Gustavo             |   Phantom Epistasis            |   [pdf]()       |
 | May   10th     |               |               |               |
