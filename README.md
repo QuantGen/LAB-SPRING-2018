@@ -6,11 +6,19 @@
 
 [Group's Website](http://quantgen.github.io/)
 
-| Date          | Presenter     |  Topic        |  Materials    |
-| ------------- | ------------- | ------------- | ------------- |
-| March 8th     |               |               |               |
-| March 8th     |               |               |               |
-| March 8th     |               |               |               |
-| March 8th     |               |               |               |
-| March 8th     |               |               |               |
-| March 8th     |               |               |               |
+| Date           | Presenter     |  Topic        |  Materials    |
+| -------------  | ------------- | ------------- | ------------- |
+| March  8th     |               |               |               |
+| March 15th     |               |               |               |
+| March 22th     |               |               |               |
+| March 29th     |               |               |               |
+
+| April  5th     |               |               |               |
+| April 12th     |               |               |               |
+| April 19th     |               |               |               |
+| April 26th     |               |               |               |
+
+| May    3rd     |               |               |               |
+| May   10th     |               |               |               |
+| May   17th     |               |               |               |
+| May   24th     |               |               |               |
