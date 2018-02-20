@@ -14,7 +14,7 @@
 | March 22th     | Agustin              |   Pan-cancer Cluster Analysis            |               |
 | March 29th     |               |               |               |
 | April  5th     |               |               |               |
-| April 12th     |  Marco        |  Image-based selection             |               |
+| April 12th     |  Marco        |  Image-based selection indices            |               |
 | April 19th     |               |               |               |
 | April 26th     |               |               |               |
 | May    3rd     |  Gustavo             |   Phantom Epistasis            |   [pdf]()       |
