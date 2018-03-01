@@ -16,7 +16,7 @@
 | April  5th     |               |               |               |
 | April 12th     |  Marco        |  Image-based selection indices            |               |
 | April 19th     |               |               |               |
-| April 26th     |               |               |               |
+| April 26th     |  Ana          |  Genetic response to an exercise intervension. Results from the TIGER study |               |
 | May    3rd     |  Gustavo             |   Phantom Epistasis            |   [pdf]()       |
 | May   10th     |               |               |               |
 | May   17th     |               |               |               |
