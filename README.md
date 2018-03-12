@@ -9,8 +9,8 @@
 
 | Date           | Presenter     |  Topic        |  Materials    |
 | -------------  | ------------- | ------------- | ------------- |
-| March  8th     |               |   Overview of QuantGen space @ HPCC and UKBB Pipelines            |               |
-| March 15th     |  Alex             |               |               |
+| March  8th     |               |            |               |
+| March 15th     |  Alex             |      Overview of QuantGen space @ HPCC and UKBB Pipelines            |               |
 | March 22th     | Agustin              |   Pan-cancer Cluster Analysis            |               |
 | March 29th     |               |               |               |
 | April  5th     |               |               |               |
