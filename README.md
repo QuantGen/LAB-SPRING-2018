@@ -9,15 +9,15 @@
 
 | Date           | Presenter     |  Topic        |  Materials    |
 | -------------  | ------------- | ------------- | ------------- |
-| March  8th     |               |            |               |
-| March 15th     |  Alex             |      Overview of QuantGen space @ HPCC and UKBB Pipelines            |               |
-| March 22th     | Agustin              |   Pan-cancer Cluster Analysis            |               |
-| March 29th     |               |               |               |
-| April  5th     |               |               |               |
-| April 12th     |  Marco        |  Image-based selection indices            |               |
-| April 19th     |               |               |               |
-| April 26th     |  Ana          |  Genetic response to an exercise intervension. Results from the TIGER study |               |
-| May    3rd     |  Gustavo             |   Phantom Epistasis            |   [pdf]()       |
-| May   10th     |               |               |               |
-| May   17th     |               |               |               |
-| May   24th     |               |               |               |
+| Tr. March  8th     |               |            |               |
+| Tr.  March 15th     |  Alex             |      Overview of QuantGen space @ HPCC and UKBB Pipelines            |               |
+| Tr. March 22th     | Agustin              |   Pan-cancer Cluster Analysis            |               |
+| Tr. March 29th     |               |               |               |
+| Tr. April  5th     |               |               |               |
+| Tr. April 12th     |  Marco        |  Image-based selection indices            |               |
+| Tr. April 19th     |               |               |               |
+| Tr. April 26th     |  Ana          |  Genetic response to an exercise intervension. Results from the TIGER study |               |
+| Tr. May    3rd     |  Gustavo             |   Phantom Epistasis            |   [pdf]()       |
+| Tr. May   10th     |               |               |               |
+| Tr. May   17th     |               |               |               |
+| Tr. May   24th     |               |               |               |
