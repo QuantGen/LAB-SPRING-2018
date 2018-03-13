@@ -15,7 +15,7 @@
 | Tr. March 29th     |               |               |               |
 | Tr. April  5th     |               |               |               |
 | Tr. April 12th     |  Marco        |  Image-based selection indices            |               |
-| Tr. April 19th     |               |               |               |
+| Tr. April 19th     |  Mengying     |  Filtering analysis   |               |
 | Tr. April 26th     |  Ana          |  Genetic response to an exercise intervension. Results from the TIGER study |               |
 | Tr. May    3rd     |  Gustavo             |   Phantom Epistasis            |   [pdf]()       |
 | Tr. May   10th     |               |               |               |
