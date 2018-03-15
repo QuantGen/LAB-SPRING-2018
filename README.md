@@ -10,7 +10,7 @@
 | Date           | Presenter     |  Topic        |  Materials    |
 | -------------  | ------------- | ------------- | ------------- |
 | Tr. March  8th     |               |            |               |
-| Tr.  March 15th     |  Alex             |      Overview of QuantGen space @ HPCC and UKBB Pipelines            |               |
+| Tr.  March 15th     |  Alex             |      Overview of QuantGen space @ HPCC and UKBB Pipelines            |  [Slides](https://slides.agrueneberg.info/2018-03-15-hpcc-ukb.html) |
 | Tr. March 22th     | Agustin              |   Pan-cancer Cluster Analysis            |               |
 | Tr. March 29th     |               |               |               |
 | Tr. April  5th     |  Gabriel      |  Analysis of spectra information of milk samples         |               |
