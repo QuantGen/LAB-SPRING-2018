@@ -12,7 +12,7 @@
 | Tr. March  8th     |               |            |               |
 | Tr.  March 15th     |  Alex             |      Overview of QuantGen space @ HPCC and UKBB Pipelines            |               |
 | Tr. March 22th     | Agustin              |   Pan-cancer Cluster Analysis            |               |
-| Tr. March 29th     |               |               |               |
+| Tr. March 29th     |    Gabriel           |               |               |
 | Tr. April  5th     |               |               |               |
 | Tr. April 12th     |  Marco        |  Image-based selection indices            |               |
 | Tr. April 19th     |  Mengying     |  Filtering analysis   |               |
