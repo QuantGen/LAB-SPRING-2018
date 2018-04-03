@@ -16,8 +16,8 @@
 | Tr. April  5th     |  Gabriel      |  Analysis of spectra information of milk samples         |               |
 | Tr. April 12th     |  Marco        |  Image-based selection indices            |               |
 | Tr. April 19th     |  Mengying     |  Filtering analysis   |               |
-| Tr. April 26th     |  Ana          |  Genetic response to an exercise intervension. Results from the TIGER study |               |
+| Tr. April 26th     |               |                 |               |
 | Tr. May    3rd     |  Gustavo             |   Phantom Epistasis            |   [pdf]()       |
 | Tr. May   10th     |  Scott             |  Deciphering sex-specific genetic effects using Bayesian inference   |               |
-| Tr. May   17th     |               |               |               |
+| Tr. May   17th     |  Ana          |  Genetic response to an exercise intervension. Results from the TIGER study  |               |
 | Tr. May   24th     |               |               |               |
