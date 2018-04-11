@@ -14,7 +14,7 @@
 | Tr. March 22th     | Agustin              |   Pan-cancer Cluster Analysis            |               |
 | Tr. March 29th     |               |               |               |
 | Tr. April  5th     |  Gabriel      |  Analysis of spectra information of milk samples         |               |
-| Tr. April 12th     |         No meeting        |
+| Tr. April 12th     |      |   No meeting        |.  |
 | Tr. April 19th     |  Marco        |  Image-based selection indices            |               |
 | Tr. April 26th     |  Mengying     |  Filtering analysis   |               |
 | Tr. May    3rd     |  Gustavo             |   Phantom Epistasis            |   [pdf]()       |
