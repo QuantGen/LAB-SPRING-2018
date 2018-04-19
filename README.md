@@ -15,7 +15,7 @@
 | Tr. March 29th     |               |               |               |
 | Tr. April  5th     |  Gabriel      |  Analysis of spectra information of milk samples         |               |
 | Tr. April 12th     |      |   No meeting        |.  |
-| Tr. April 19th     |  Mengying     |  Filtering analysis   |               |[Slides](https://www.dropbox.com/s/pnk6xnj5m7ar6lj/main.pdf?dl=0)
+| Tr. April 19th     |  Mengying     |  Filtering analysis   |               |[Slides](https://www.dropbox.com/s/pnk6xnj5m7ar6lj/main.pdf?dl=0) |
 | Tr. April 26th     |  Marco        |  Image-based selection indices            |               |
 | Tr. May    3rd     |  Gustavo             |   Phantom Epistasis            |   [pdf]()       |
 | Tr. May   10th     |  Scott             |  Deciphering sex-specific genetic effects using Bayesian inference   |               |
