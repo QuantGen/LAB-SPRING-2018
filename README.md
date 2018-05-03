@@ -17,7 +17,7 @@
 | Tr. April 12th     |      |   No meeting        |.  |
 | Tr. April 19th     |  Mengying     |  Dependent Screening on Human Genome Profiles for Complex Traits Prediction   |               [Slides](https://www.dropbox.com/s/pnk6xnj5m7ar6lj/main.pdf?dl=0)| 
 | Tr. April 26th     |  Marco        |  Image-based selection indices            |               |
-| Tr. May    3rd     |  Gustavo             |   Phantom Epistasis            |   [pdf]()       |
+| Tr. May    3rd     |  Gustavo             |   Phantom Epistasis            |   [pdf](https://www.dropbox.com/s/1wx5wscdb0g7flz/epistasis.docx?dl=0)       |
 | Tr. May   10th     |  Scott             |  Deciphering sex-specific genetic effects using Bayesian inference   |               |
 | Tr. May   17th     |  Ana          |  Genetic response to an exercise intervension. Results from the TIGER study  |               |
 | Tr. May   24th     |               |               |               |
