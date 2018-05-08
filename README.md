@@ -19,5 +19,5 @@
 | Tr. April 26th     |  Marco        |  Image-based selection indices            |               |
 | Tr. May    3rd     |  Gustavo             |   Phantom Epistasis            |   [pdf](https://www.dropbox.com/s/1wx5wscdb0g7flz/epistasis.docx?dl=0)       |
 | Tr. May   10th     |  Scott             |  Deciphering sex-specific genetic effects using Bayesian inference   |               |
-| Tr. May   17th     |  Ana          |  Genetic response to an exercise intervension. Results from the TIGER study  |               |
+| Tr. May   17th     |            |    |               |
 | Tr. May   24th     |               |               |               |
